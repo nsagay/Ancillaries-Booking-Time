@@ -15,7 +15,7 @@ Parcels: Shipping of goods via Eurostar for non-passenger services.
 ## Key Insights
 Powerbi 
 <img width="1021" alt="image" src="https://github.com/user-attachments/assets/4635955a-0ae0-41fb-9489-0971c9670ce5">
-<div style="position: relative; padding-bottom: 63.52941176470588%; height: 0;"><iframe src="https://www.loom.com/embed/112e194d91064363bccaa91e829e4b31?sid=457221d6-1c03-4bb8-9cd0-9b57792f772e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+Link to a live demo: "https://www.loom.com/embed/112e194d91064363bccaa91e829e4b31?sid=457221d6-1c03-4bb8-9cd0-9b57792f772e" 
 
 
 
